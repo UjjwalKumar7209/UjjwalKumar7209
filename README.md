@@ -1,81 +1,110 @@
-# Hi, I'm Ujjwal Kumar 👋
+<h1 align="center">Hi, I'm Ujjwal Kumar 👋</h1>
 
-Computer Science Undergraduate with a strong focus on **Data Structures & Algorithms** and hands-on experience in building **full-stack web applications**.
+<p align="center">
+  Computer Science Undergraduate | <b>DSA & Full-Stack Systems</b>
+</p>
 
-- 🔹 Solved **320+ DSA problems** across LeetCode, GeeksforGeeks, and CodeStudio  
-- 🔹 Strong in **problem solving, backend logic, and system-oriented thinking**  
-- 🔹 Currently improving **competitive programming** (Codeforces ~800)  
-- 🔹 Interested in building **scalable systems** and clean software architectures  
-
----
-
-## 🧠 Core Skills
-
-**Programming Languages**  
-JavaScript, TypeScript, Python, C, C++
-
-**Data Structures & Algorithms**  
-Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Dynamic Programming  
-
-**Frontend Development**  
-React.js, Next.js, Tailwind CSS, React Hook Form  
-
-**Backend Development & APIs**  
-Node.js, Express.js, RESTful APIs, JWT Authentication, Zod Validation  
-
-**Databases & ORMs**  
-PostgreSQL, MongoDB, Prisma ORM, Mongoose  
-
-**Tools & Platforms**  
-Git & GitHub, n8n (Learning)
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
+
+- 🎯 Strong focus on **Data Structures & Algorithms** (320+ problems solved)
+- 🧠 Interested in **problem solving, backend systems, and scalable architectures**
+- ⚡ Building **full-stack web applications** with modern JavaScript stacks
+- 🏁 Competitive Programming (Codeforces ~800)
+- 🎤 Public speaker & active contributor in tech communities
+
+---
+
+## 🧠 Core Technical Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-323330?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-323330?style=flat&logo=cplusplus)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwindcss)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-20232A?style=flat&logo=express)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=flat&logo=jsonwebtokens)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat&logo=prisma)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git)
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔐 Vaultify – Full Stack Productivity Platform
-- Full-stack web application for securely storing notes and links  
-- JWT-based authentication with protected routes  
-- RESTful APIs with type-safe backend and PostgreSQL using Prisma  
+- Secure note & link storage with **JWT authentication**
+- **RESTful APIs** with type-safe backend validation
+- PostgreSQL + Prisma ORM for scalable data handling  
 
-**Tech:** Next.js, React.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Zod, Tailwind CSS  
+**Tech:** Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma
 
 ---
 
 ### 📝 Content Publishing Platform
-- Medium-like platform for writing and publishing articles  
-- User authentication and REST API-based backend  
-- MongoDB-based data handling with modular frontend  
+- Medium-like platform for article publishing
+- Authentication, protected routes & REST APIs
+- MongoDB-based backend with modular frontend  
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Mongoose, JavaScript, Tailwind CSS  
+**Tech:** React, Node.js, Express, MongoDB, Mongoose
 
 ---
 
 ### 🎮 EduCycle – Gamified Learning Platform (SIH)
-- Gamified learning platform built during **Smart India Hackathon (SIH)**  
-- MCQ-based interactive gameplay (vibe-coded)  
-- Secured **8th position among 500+ teams** at college level  
+- MCQ-based interactive learning game (vibe-coded)
+- Built during **Smart India Hackathon**
+- 🏆 **8th position among 500+ teams**
+
+---
+
+## 📊 Coding Profiles & Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=your-leetcode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- Solved **320+ DSA problems** across major platforms  
-- **200+ problems solved on LeetCode**  
-- Competitive Programming: **Codeforces rating ~800**  
-- Frontend contributor to a **real-time video calling web application** (MLSA KIIT)  
-- Organized **“Captcha the Imposter”** (MLSA KIIT), delivered a speaker session  
-- **100+ WPM typing speed**
+- ✅ 320+ DSA problems solved (LeetCode, GFG, CodeStudio)
+- ✅ 200+ problems on LeetCode
+- ✅ Competitive Programming – Codeforces ~800
+- ✅ Frontend contributor to real-time video calling app (MLSA KIIT)
+- ✅ Speaker & organizer at **MLSA KIIT events**
+- ✅ 100+ WPM typing speed
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- LeetCode: https://leetcode.com/your-username  
-- Codeforces: https://codeforces.com/profile/your-username  
+- 💻 GitHub: https://github.com/your-username  
+- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
+- 🧠 LeetCode: https://leetcode.com/your-leetcode  
+- 🏁 Codeforces: https://codeforces.com/profile/your-codeforces  
 
 ---
 
-⭐ *Focused on writing clean code, improving problem-solving skills, and building meaningful software.*
+⭐ *Focused on mastering problem solving and building clean, scalable software.*
