@@ -4,12 +4,6 @@
   Computer Science Undergraduate | <b>DSA & Full-Stack Systems</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
