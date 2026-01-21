@@ -6,16 +6,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎯 Strong focus on **Data Structures & Algorithms** (320+ problems solved)
-- 🧠 Interested in **problem solving, backend systems, and scalable architectures**
-- ⚡ Building **full-stack web applications** with modern JavaScript stacks
-- 🏁 Competitive Programming (Codeforces ~800)
-- 🎤 Public speaker & active contributor in tech communities
-
----
-
 ## 🧠 Core Technical Skills
 
 ### Languages
@@ -40,35 +30,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat&logo=prisma)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git)
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 Vaultify – Full Stack Productivity Platform
-- Secure note & link storage with **JWT authentication**
-- **RESTful APIs** with type-safe backend validation
-- PostgreSQL + Prisma ORM for scalable data handling  
-
-**Tech:** Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma
-
----
-
-### 📝 Content Publishing Platform
-- Medium-like platform for article publishing
-- Authentication, protected routes & REST APIs
-- MongoDB-based backend with modular frontend  
-
-**Tech:** React, Node.js, Express, MongoDB, Mongoose
-
----
-
-### 🎮 EduCycle – Gamified Learning Platform (SIH)
-- MCQ-based interactive learning game (vibe-coded)
-- Built during **Smart India Hackathon**
-- 🏆 **8th position among 500+ teams**
-
----
-
 ## 📊 Coding Profiles & Stats
 
 <p align="center">
@@ -85,19 +46,15 @@
 
 - ✅ 320+ DSA problems solved (LeetCode, GFG, CodeStudio)
 - ✅ 200+ problems on LeetCode
-- ✅ Competitive Programming – Codeforces ~800
-- ✅ Frontend contributor to real-time video calling app (MLSA KIIT)
-- ✅ Speaker & organizer at **MLSA KIIT events**
-- ✅ 100+ WPM typing speed
 
 ---
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/your-username  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
-- 🧠 LeetCode: https://leetcode.com/your-leetcode  
-- 🏁 Codeforces: https://codeforces.com/profile/your-codeforces  
+- 💻 [GitHub](https://github.com/UjjwalKumar7209)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ujjwallll)  
+- 🧠 [LeetCode](https://leetcode.com/u/_ujjwallk/)
+- 🏁 [Codeforces](https://codeforces.com/profile/get_back_star1)
 
 ---
 
