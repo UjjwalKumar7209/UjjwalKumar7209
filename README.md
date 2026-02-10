@@ -33,7 +33,7 @@
 ## 📊 Coding Profiles & Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=_ujjwallk&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/_ujjwallk?theme=dark&font=Baloo" />
 </p>
 
 <p align="center">
