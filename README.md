@@ -33,11 +33,11 @@
 ## 📊 Coding Profiles & Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=your-leetcode&theme=dark" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=_ujjwallk&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalKumar7209&theme=dark&hide_border=true" />
 </p>
 
 ---
