@@ -54,7 +54,7 @@
 - 💻 [GitHub](https://github.com/UjjwalKumar7209)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ujjwallll)  
 - 🧠 [LeetCode](https://leetcode.com/u/_ujjwallk/)
-- 🏁 [Codeforces](https://codeforces.com/profile/get_back_star1)
+- 🏁 [Codeforces](https://codeforces.com/profile/_ujjwallk)
 
 ---
 
