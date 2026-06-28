@@ -44,8 +44,8 @@
 
 ## 🏆 Achievements
 
-- ✅ 320+ DSA problems solved (LeetCode, GFG, CodeStudio)
-- ✅ 200+ problems on LeetCode
+- ✅ 550+ DSA problems solved (LeetCode, GFG, CodeStudio)
+- ✅ 330+ problems on LeetCode
 
 ---
 
@@ -54,7 +54,7 @@
 - 💻 [GitHub](https://github.com/UjjwalKumar7209)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ujjwallll)  
 - 🧠 [LeetCode](https://leetcode.com/u/_ujjwallk/)
-- 🏁 [Codeforces](https://codeforces.com/profile/_ujjwallk)
+- 🏁 [Codeforces](https://codeforces.com/profile/get_back_star1)
 
 ---
 
